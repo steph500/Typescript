@@ -1,11 +1,6 @@
-document.body.innerHTML = '<h1>I hope tsdgausdhis fucking works with TS';
 
 function tryOut() {
-    console.log('this fucking worked');
-}
-
-class firstClass {
-    tryOut2() {
-        console.log('this is in the class');
+    for (let x=0; x<=10; x++) {
+        console.log('this worked '+ x);
     }
 }
