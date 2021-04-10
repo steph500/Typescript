@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>I hope this fucking works with TS';
